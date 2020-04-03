@@ -19,9 +19,9 @@ h4 {
 }
 
 h1 {
-  font-size: 5.4rem;
+  font-size: 3rem;
   color: #56a5eb;
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 }
 
 h1 > span {
@@ -30,7 +30,7 @@ h1 > span {
 }
 
 h2 {
-  font-size: 4.2rem;
+  font-size: 2.7rem;
   margin-bottom: 4rem;
   font-weight: 700;
 }
